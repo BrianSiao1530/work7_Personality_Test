@@ -1,0 +1,9 @@
+Betty Boop: [90, 15, 10, 10] = ENFP
+Snoopy: [30, 45, 30, 70] = INFJ
+Bugs Bunny: [20, 45, 15, 55] = INFJ
+Daffy Duck: [100, 5, 20, 5] = ENFP
+The frumious bandersnatch: [85, 95, 75, 77] = ESTJ
+Minnie Mouse: [66, 27, 31, 5] = ENFP
+Luke Skywalker: [88, 61, 26, 25] = ESFP
+Han Solo: [80, 50, 45, 25] = EXFP
+Princess Leia: [80, 50, 50, 5] = EXXP
